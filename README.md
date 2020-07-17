@@ -1,17 +1,21 @@
-# stroom_simulator_vid
+Aplikasi Stroom Simulator.
 
-A new Flutter project.
+Aplikasi ini mempunyai 3 fitur utama:
+1. Fitur simulasi kebutuhan listrik
+2. Fitur simulasi biaya pasang listrik
+3. Fitur simulasi beli token listrik
 
-## Getting Started
+1. Fitur simulasi kebutuhan listrik
+Di fitur ini akan menjawab pertanyaan, berapakah daya listrik yang harus saya langgan agar bisa memenuhi kebutuhan peralatan listrik di rumah?
+Dengan mensimulasikan peralatan listrik dan dayanya, kalian akan mendapatakan jawabannya.
 
-This project is a starting point for a Flutter application.
+2. Fitur simulasi biaya pasang listrik
+Setelah kalian mendapatkan rekomendasi kebutuhan daya listrik, tentu kalian ingin tahu estimasi biaya pasang listrik ke PLN. Di fitur ini kalian akan mensimulasikannua
 
-A few resources to get you started if this is your first Flutter project:
+3. Fitur simulasi beli token listrik
+Pada listrik prabayar, kalian harus beli token listrik. Berapa kWH energi listrik yang kalian dapat saat membeli token? Di fitur ini kalian bisa mensimulasikannya.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Silakan cek Playlist lengkap pengembangan proyek ini di sini ya-> https://bit.ly/playlist_stroom_simulator
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# stroom_simulator_fix
+Jangan lupa subscribe.
+
